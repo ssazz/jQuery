@@ -1,3 +1,5 @@
 $(document).ready(function(){
-  $('a').css('background-color','#ff0000');
-});
+		  $("#more").click(function(){
+			  $("body").css("background-color","#000");
+		  });
+		});
