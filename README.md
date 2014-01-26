@@ -1,4 +1,1 @@
-jQuery
-======
-
-jQuery
+My amazing scripts ever!
