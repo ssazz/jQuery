@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('body').css('display','none');
+  $('a').css('background-color','#ff0000');
 });
